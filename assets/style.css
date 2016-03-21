@@ -1,0 +1,9 @@
+.card-deface {
+  margin: 0 auto !important;
+  position: relative;
+  top: 125px;
+}
+
+.center {
+  text-align: center;
+}
